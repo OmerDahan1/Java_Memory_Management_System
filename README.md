@@ -36,5 +36,17 @@ This project implements a Memory Management System (MMS) as part of Homework 10 
 
 - Tests the methods of the List class for adding, removing, and accessing nodes.
 
+## Usage
+
+### Setup:
+
+1. Ensure Java Development Kit (JDK) is installed on your system.
+2. Compile all `.java` files in the project directory using `javac *.java`.
+3. The code of `StdIn.java` is available [here](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java), place it in the same directory as the Java files.
 
 
+### Testing:
+
+   - Run java ListTest to execute basic unit tests on list operations.
+   - Run java MMSTest to execute unit tests for the Memory Management System.
+   - Modify ListTest and MMSTest to expand or customize tests for your requirements.
